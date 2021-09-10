@@ -1,0 +1,6 @@
+python==3.9
+django
+django-machina
+debug-toolbar
+django-debug-toolbar
+whoosh
